@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **GirlScript Summer of Code**
 
-- 🌱 I’m currently learning **Tailwind**
+- 🌱 I’m currently learning **MongoDB**
 
 - 👯 I’m looking to collaborate on **RazorPay Clone**
 
