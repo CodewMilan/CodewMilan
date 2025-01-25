@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Coder from India</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on Discord Clone<br>👯 I’m looking to collaborate on Open source Programs<br>🤝 I’m looking for help with DSA<br>🌱 I’m currently learning React.JS<br>💬 Ask me about Tailwind CSS<br>
+🔭 I’m currently working on A Weather App<br>👯 I’m looking to collaborate on Open source Programs<br>🤝 I’m looking for help with DSA<br>🌱 I’m currently learning React.JS<br>💬 Ask me about Tailwind CSS<br>
 
 
 ## 🌐 Socials:
